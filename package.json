@@ -1,0 +1,18 @@
+{
+  "name": "fetch_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.9.5",
+    "eventproxy": "^0.3.5",
+    "superagent": "^0.20.0"
+  }
+}
